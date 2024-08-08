@@ -1,6 +1,6 @@
 === PostDates ===
 Contributors: ekajogja
-Donate link: -
+Donate link: https://paypal.me/ekajogja
 Tags: date, last-updated, published-date
 Requires at least: 4.7
 Tested up to: 6.6.1
