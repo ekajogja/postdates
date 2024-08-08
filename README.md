@@ -21,9 +21,11 @@ Go to the plugin settings page and select the desired position (above or below t
 ## Screenshots
 
 1. Plugin setting
+   
    ![plugin settings](assets/screenshots/settings.jpg)
     
 2. Display on page
+   
    ![display on post](assets/screenshots/display.jpg)
    
 
