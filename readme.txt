@@ -36,8 +36,8 @@ You can choose to show last update date only, or both publish date and last upda
 1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Screenshots are stored in the /assets directory.
 2. This is the second screen shot
 
-1. ![plugin settings]() 
-2. ![display on post]().
+1. ![plugin settings](assets/screenshots/display.jpg) 
+2. ![display on post](assets/screenshots/settings.jpg).
 
 == Changelog ==
 
