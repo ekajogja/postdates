@@ -175,7 +175,7 @@ class PostDates
             if ($post_type == 'post') {
                 if (isset($this->options['show_last_update_on_posts']) || isset($this->options['show_both_on_posts'])) {
                     $display_text .= sprintf(
-                        __('Published: %s | Updated: %s', 'postdates'),
+                        __('Published: %1$s | Updated: %2$s', 'postdates'),
                         esc_html($published_date),
                         esc_html($updated_date)
                     );
@@ -183,7 +183,7 @@ class PostDates
             } elseif ($post_type == 'page') {
                 if (isset($this->options['show_last_update_on_pages']) || isset($this->options['show_both_on_pages'])) {
                     $display_text .= sprintf(
-                        __('Published: %s | Updated: %s', 'postdates'),
+                        __('Published: %1$s | Updated: %2$s', 'postdates'),
                         esc_html($published_date),
                         esc_html($updated_date)
                     );
@@ -191,7 +191,7 @@ class PostDates
             } else {
                 if (isset($this->options['show_last_update_on_custom_posts']) || isset($this->options['show_both_on_custom_posts'])) {
                     $display_text .= sprintf(
-                        __('Published: %s | Updated: %s', 'postdates'),
+                        __('Published: %1$s | Updated: %2$s', 'postdates'),
                         esc_html($published_date),
                         esc_html($updated_date)
                     );
