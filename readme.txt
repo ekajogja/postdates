@@ -33,8 +33,13 @@ You can choose to show last update date only, or both publish date and last upda
 
 == Screenshots ==
 
-1. ![plugin settings](assets/screenshots/display.jpg) 
-2. ![display on post](assets/screenshots/settings.jpg).
+1. Plugin setting
+   
+   ![plugin settings](assets/screenshots/settings.jpg)
+    
+2. Display on page
+   
+   ![display on post](assets/screenshots/display.jpg)
 
 == Changelog ==
 
