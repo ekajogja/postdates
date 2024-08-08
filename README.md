@@ -20,8 +20,11 @@ Go to the plugin settings page and select the desired position (above or below t
 
 ## Screenshots
 
-1. ![plugin settings](assets/screenshots/display.jpg) 
-2. ![display on post](assets/screenshots/settings.jpg).
+1. ![plugin settings](assets/screenshots/settings.jpg)
+   Plugin setting
+    
+3. ![display on post](assets/screenshots/display.jpg)
+   Display on page
 
 ## Changelog
 
