@@ -1,0 +1,58 @@
+# PostDates Plugin
+# Copyright (C) 2024 ekajogja
+# This file is distributed under the same license as the PostDates package.
+# EKA Y SAPUTRA <EKAJOGJA@GMAIL.COM>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PostDates 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-09 00:23+0700\n"
+"PO-Revision-Date: 2024-08-09 00:19+0700\n"
+"Last-Translator: EKA Y SAPUTRA <EKAJOGJA@GMAIL.COM>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#: postdates.php:20
+msgid "PostDates"
+msgstr ""
+
+#: postdates.php:25
+msgid "A simple WordPress plugin that displays the publication and last update date on posts, pages, and custom post types."
+msgstr ""
+
+#: postdates.php:50
+msgid "Show last update on Posts"
+msgstr ""
+
+#: postdates.php:55
+msgid "Show both published and last update on Posts"
+msgstr ""
+
+#: postdates.php:60
+msgid "Show last update on Pages"
+msgstr ""
+
+#: postdates.php:65
+msgid "Show both published and last update on Pages"
+msgstr ""
+
+#: postdates.php:70
+msgid "Show last update on Custom Posts"
+msgstr ""
+
+#: postdates.php:75
+msgid "Show both published and last update on Custom Posts"
+msgstr ""
+
+#: postdates.php:80
+msgid "Position of Dates"
+msgstr ""
+
+#: postdates.php:100
+msgid "Published: %s | Updated: %s"
+msgstr ""
