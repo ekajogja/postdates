@@ -54,5 +54,5 @@ msgid "Position of Dates"
 msgstr ""
 
 #: postdates.php:100
-msgid "Published: %s | Updated: %s"
+msgid "Published: %1$s | Updated: %2$s"
 msgstr ""
