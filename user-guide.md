@@ -11,7 +11,6 @@ This guide will help you get started with the PostDates plugin. The plugin allow
    - Navigate to `Settings` -> `PostDates`.
 
 2. **Setting Display Options:**
-   - **Show last update on Posts:** Check this box to display the last update date on posts.
    - **Show both published and last update on Posts:** Check this box to display both the publication and last update dates on posts.
    - **Position of Dates:** Select whether you want the dates to appear above or below the content.
 

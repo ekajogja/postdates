@@ -27,10 +27,6 @@ PostDates allows you to easily display the publication and last update dates for
 
 Go to the plugin settings page and select the desired position (above or below the content).
 
-= What dates that can be displayed on post and pages? =
-
-You can choose to show last update date only, or both publish date and last update date.
-
 == Screenshots ==
 
 1. Plugin setting
@@ -48,8 +44,6 @@ You can choose to show last update date only, or both publish date and last upda
 * Features include displaying publication and last update dates on posts, pages, and custom post types.
 * Added settings page to configure date display options.
 * Added option to choose the position of dates (above or below the content).
-* Internationalization support with text domain 'postdates'.
-* en_US and id_ID translations available.
 
 == Upgrade Notice ==
 
