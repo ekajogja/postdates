@@ -20,8 +20,8 @@ Go to the plugin settings page and select the desired position (above or below t
 
 ## Screenshots
 
-1. [ ] Screenshot of the plugin settings page.
-2. [ ] Screenshot of the dates displayed on a post.
+1. ![plugin settings](assets/screenshots/display.jpg) 
+2. ![display on post](assets/screenshots/settings.jpg).
 
 ## Changelog
 
